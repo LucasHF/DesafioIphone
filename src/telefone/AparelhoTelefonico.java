@@ -1,4 +1,4 @@
-package interfaces;
+package telefone;
 
 public interface AparelhoTelefonico {
 

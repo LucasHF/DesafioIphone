@@ -1,4 +1,4 @@
-package interfaces;
+package navegacaoInternet;
 
 public interface NavegadorInternet {
 

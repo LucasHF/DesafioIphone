@@ -1,4 +1,4 @@
-package interfaces;
+package musica;
 
 public interface ReprodutorMusical {
 
